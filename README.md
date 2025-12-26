@@ -22,7 +22,7 @@
 * js混肴地址：https://obfuscator.io
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/eooce/node-ws/dev/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/onlivee/flyhope/refs/heads/dev/install.sh)
 ```
 
 ### 使用cloudflare workers 或 snippets 反代域名给节点套cdn加速
@@ -57,11 +57,4 @@ function getRandomArray(array) {
 2. 修改后的版本也必须以相同协议开源；
 3. **未经原作者明确授权，不得将本项目或其任何部分用于商业用途。**
 
-商业用途包括但不限于：
-- 将本项目嵌入到出售的软件、系统或服务中；
-- 通过本项目直接或间接获利（例如通过广告、SaaS服务等）；
-- 在公司或组织内部作为商业工具使用。
-
-如需获得商业授权，请联系原作者：[admin@eooce.com]
-
-版权所有 ©2025 `eooce`
+版权所有 ©2025 fork from eooce
